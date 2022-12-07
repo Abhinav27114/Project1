@@ -1,4 +1,4 @@
-n=int(input("Enter the number to check: "))
+n=int(input("Enter the number for checking: "))
 c=0
 a=1
 b=1
